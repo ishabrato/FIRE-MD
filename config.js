@@ -6,7 +6,7 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const ownervb = process.env.OWNERS || "2349013432338; Opaksfire"
+const ownervb = process.env.OWNERS || "2349013432338; ishabrato"
 
 
 const ownerlist = ownervb.split(';');
@@ -14,9 +14,9 @@ const ownerlist = ownervb.split(';');
 global.owner = [];
 for (let i = 0; i < ownerlist.length; i += 2) {
     const owner = [
-        ownerlist[i],            
-        ownerlist[i + 1],         
-        true                        
+        ownerlist[i],
+        ownerlist[i + 1],
+        true
     ];
     global.owner.push(owner);
 }
@@ -72,15 +72,12 @@ global.APIKeys = {
 global.botname = process.env.BOTNAME
 global.premium = 'false'
 global.packname = 'FIRE MD'
-global.author = 'OPAKSFIRE'
+global.author = 'ISHABRATO'
 global.menuvid = 'https://files.catbox.moe/r9oil6.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/\n'
-global.dygp = 'https://whatsapp.com/channel/0029VajYjMJJf05aRQXKx82W'
 global.fgsc = 'https://github.com/'
 global.fgyt = 'https://youtube.com/'
 global.fgpyp = 'https://youtube.com/'
-global.fglog = 'https://api.shannmoderz.xyz/server/file/XyjKP6IA0VnyFZF.jpg'
-global.thumb = fs.readFileSync('./Assets/fire.jpg')
 
 global.wait = '*🕑 _processing..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '🕑'

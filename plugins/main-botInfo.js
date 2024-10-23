@@ -56,7 +56,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 
   let infobt = `
 ≡ *INFO BOT*
-  
+
 *STATE*
 ▢ *${groupsIn.length}* GROUP CHATS
 ▢ *${groupsIn.length}* united groups
@@ -65,14 +65,14 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ▢ *${chats.length}* Total Chats
 
 *≡ OWNER*
-  *OPAKSFIRE*
+  *ishabrato*
 ▢ Instagram :
-  • https://instagram.com/OPAKSFIRE 
+  • https://instagram.com/ishabrato
 ▢ GitHub :
-  • https://github.com/Opaksfire/FIRE-MD
-▢ Telegram : 
-  • t.me/i 
-▢ YouTube : 
+  • https://github.com/ishabrato/FIRE-MD
+▢ Telegram :
+  • t.me/i
+▢ YouTube :
   • https://youtube.com/@firenation-1?si=1NUPuc6idSkmSoga
 
  *≡ S E R V E R*

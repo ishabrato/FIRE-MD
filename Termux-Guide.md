@@ -12,7 +12,7 @@
 
  Run the following commands to clone the repo (Use your fork)
  ```SH
-> git clone https://github.com/Opaksfire/FIRE-MD
+> git clone https://github.com/ishabrato/FIRE-MD
 > cd FIRE-MD
  ```
 

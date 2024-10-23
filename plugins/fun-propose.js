@@ -2,7 +2,7 @@
 
 let handler = async (m, { conn, text}) => {
 
-m.reply(`https://github.com/Opaksfire/FIRE-MD *╔═══════════════════════════*\n➢ *"${pickRandom(global.piropo)}"*\n*╚═══════════════════════════*`)
+m.reply(`https://github.com/ishabrato/FIRE-MD *╔═══════════════════════════*\n➢ *"${pickRandom(global.piropo)}"*\n*╚═══════════════════════════*`)
 }
 handler.tags = ['frases']
 handler.command = ['propose']

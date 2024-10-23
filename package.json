@@ -1,7 +1,7 @@
 {
     "name": "FIRE MD",
     "version": "2.1.0",
-    "description": "A FIRE NATION  BY OPAKSFIRE",
+    "description": "A FIRE NATION  BY ishabrato",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -17,16 +17,16 @@
         "test": "node test.js"
     },
     "keywords": [],
-    "homepage": "https://github.com/Opaksfire/FIRE-MD/",
+    "homepage": "https://github.com/ishabrato/FIRE-MD/",
     "author": {
-        "name": "OPAKSFIRE"
+        "name": "ishabrato"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Opaksfire/FIRE-MD.git"
+        "url": "git+https://github.com/ishabrato/FIRE-MD.git"
     },
     "bugs": {
-        "url": "https://github.com/Opaksfire/FIRE-MD/issues"
+        "url": "https://github.com/ishabrato/FIRE-MD/issues"
     },
     "license": "Apache License 2.0",
     "dependencies": {

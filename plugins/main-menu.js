@@ -461,7 +461,7 @@ let botmenu = `
  🔥 .pinterest
  🔥 .reg <name.age>
  🔥 .mysn
- 🔥 .unreg 
+ 🔥 .unreg
   ╰──────────⳹
   `
 let pluginmenu = `
@@ -517,9 +517,9 @@ const handler = async (m, { conn, command, text, args, usedPrefix }) => {
  ||   FIREMD   ||
 > ${botname}  」\n
 - Hii ${name} user
-    
-- *${ucpn}* 
-   
+
+- *${ucpn}*
+
 🔥───『 *U S E R*』───🔥
 🔥 *Name:* ${name}
 🔥 *Gold:* ${credit}
@@ -527,7 +527,7 @@ const handler = async (m, { conn, command, text, args, usedPrefix }) => {
 🔥 *Level:* ${level}
 🔥 *Xp:* ${exp}
 ╰──────────⳹
-   
+
 🔥───『 *I N F O*』───🔥
 🔥 *Bot Name:* ${botname}
 🔥 *Mode:* ${mode}
@@ -538,15 +538,15 @@ const handler = async (m, { conn, command, text, args, usedPrefix }) => {
 🔥 *Uptime:* ${muptime}
 🔥 *Database:*  ${totalreg}
 ╰──────────⳹
-> © Firemd by opaksfire\n\n
+> © Firemd by ishabrato\n\n
 ${readMore}
-🔥───『 *I N F O  C M D*』───🔥 
+🔥───『 *I N F O  C M D*』───🔥
 │ *${totalfeatures}* Commands
 ╰──────────⳹
-     
 
-🔥───『 *INFO*』───🔥 
-│*note: always remember to use .cleartmp once a day for your bot to last 
+
+🔥───『 *INFO*』───🔥
+│*note: always remember to use .cleartmp once a day for your bot to last
  Reply with the number*
 │ to get respected Menu or type the command e.g [.botmenu]*
 ╰───────⳹
@@ -579,7 +579,7 @@ ${readMore}
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
         newsletterJid: '120363334724476325@newsletter',
-        newsletterName: 'FIRE MD ©powered by opaksfire',
+        newsletterName: 'FIRE MD ©powered by ishabrato',
         serverMessageId: -1,
       },
       forwardingScore: 999,
@@ -592,7 +592,7 @@ ${readMore}
         renderLargerThumbnail: false,
       },
     },
-    
+
     gifPlayback: true, gifAttribution: 0 },
     { quoted: fcontact }
   )

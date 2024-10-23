@@ -2,7 +2,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
   // Sound
   let name = m.pushName || conn.getName(m.sender)
   var vn = './Assets/mp3/Alive.mp3'
-  let url = 'https://github.com/Opaksfire/FIRE-MD'
+  let url = 'https://github.com/ishabrato/FIRE-MD'
   let murl = 'https:/'
   let img = 'https://i.imgur.com/tStJm2M.jpeg'
   let con = {

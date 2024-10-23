@@ -4,13 +4,13 @@
   "keywords": [
     "FIRE MD"
   ],
-  "repository": "https://github.com/Opaksfire/FIRE-MD/tree/main",
+  "repository": "https://github.com/ishabrato/FIRE-MD/tree/main",
   "stack": "container",
   "env": {
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "2349013432338;opaksfire"
+      "value": "2349013432338;ishabrato"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
